@@ -7,8 +7,9 @@ Welcome to my DSA journey where I solve problems daily to improve my logic and p
 - Day 02: Array Operations  
 - Day 03: Searching  
 - Day 04: Sorting  
-- Day 05: Strings  
+- Day 05: Strings
 - Day 06: Recursion
+- Day 07: Pointers
 ## 🧠 My Strategy
 - Solving **12 problems daily**  
 - Starting with **C Programming (first 10 days)**  
@@ -25,7 +26,8 @@ Welcome to my DSA journey where I solve problems daily to improve my logic and p
 
 ## 📌 Goal
 - Become strong in DSA  
-- Prepare for coding interviews  
+- Improve problem solving skills
+- Build a strong Github coding portfolio
 
 ---
 
