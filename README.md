@@ -10,6 +10,7 @@ Welcome to my DSA journey where I solve problems daily to improve my logic and p
 - Day 05: Strings
 - Day 06: Recursion
 - Day 07: Pointers
+- Day 08: Structures
 ## 🧠 My Strategy
 - Solving **12 problems daily**  
 - Starting with **C Programming (first 10 days)**  
