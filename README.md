@@ -11,6 +11,7 @@ Welcome to my DSA journey where I solve problems daily to improve my logic and p
 - Day 06: Recursion
 - Day 07: Pointers
 - Day 08: Structures
+- Day 09: File Handling
 ## 🧠 My Strategy
 - Solving **12 problems daily**  
 - Starting with **C Programming (first 10 days)**  
@@ -32,5 +33,5 @@ Welcome to my DSA journey where I solve problems daily to improve my logic and p
 
 ---
 
-Trying to improve every single day 💀
+Trying to improve every single day 🚀
 
